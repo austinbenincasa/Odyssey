@@ -1,7 +1,7 @@
 # Odyssey
 
 A single player platformer space adventure game. Find your way through open
-space battle enemy spaceships and navigating foreign planets.
+space battling enemy spaceships and navigating foreign planets.
 
 
 ##Status
